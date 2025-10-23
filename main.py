@@ -124,7 +124,6 @@ def main():
 
     while(stop_joueur != 1):
 
-        print("\n---------------------------------------------")
         print("Hit ou Stay ?")
         reponse = input("Choix > ").strip()
 
